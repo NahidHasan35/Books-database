@@ -49,6 +49,7 @@
 				<th class="p-3 bg-secondary border"> Author </th>
 				<th class="p-3 bg-secondary border"> Pages </th>
 				<th class="p-3 bg-secondary border"> Availability </th>
+				<th class="p-3 bg-secondary border"> Operation </th>
 			</tr>
 			<?php
 				$ind = 0;
