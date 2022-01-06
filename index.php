@@ -17,8 +17,8 @@
 
 		?>
 	<div>
-		<div>
-			<h1 class="text-center">Books Available<h1>
+		<div class="m-3">
+			<h2 class="text-center">LIST OF BOOKS<h2>
 		</div>
 		<br>
 		<div>
@@ -26,7 +26,7 @@
 	      	<tr>
 				<td> 
 					<form action = "/add.php">
-							<input class="btn-success rounded" type="submit" name="Add" value="Add a Book"/> 
+							<input class="btn-success rounded p-2" type="submit" name="Add" value="Add a Book"/> 
 					</form> 
 				</td>
 
@@ -36,9 +36,10 @@
 			</tr>	
 		</table>
 		<br>
+		<!-- <br>
 		<div style="text-align:center">
 			<h3 >Search Result</h3>
-		</div>
+		</div> -->
 
 		</div>
 		<table class="border border-light " style = "margin-left:auto;margin-right:auto;">

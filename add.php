@@ -59,7 +59,7 @@
 				<tr>
 					<td> 
 						<input type="hidden" id="adding" name="adding" value=<?php echo $ind?>>
-						<input class="btn-success" type="submit" id="submit" name="Submit" required>
+						<input class="btn-success rounded p-1" type="submit" id="submit" name="Submit" required>
 					</td>
 				</tr>
 
